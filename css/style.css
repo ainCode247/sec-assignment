@@ -2,8 +2,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-/* inter-font-style */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 body {
@@ -20,7 +18,7 @@ body {
 .container {
     max-width: 80%;
     margin: 0 auto;
-    /* border: 1px solid magenta; */
+    /* border: 1px solid red; */
 }
 
 /* _________shared style_________ */
@@ -32,7 +30,7 @@ body {
     text-align: center;
 }
 
-/* _________navigation style_________ */
+/* _________Mavigation Style_________ */
 
 .navigation {
     max-width: 80%;
